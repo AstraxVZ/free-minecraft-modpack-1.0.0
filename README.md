@@ -16,4 +16,6 @@ To install this, follow these steps:
 4. Run Minecraft Forge 1.18.2
     1. Forge should be 40.2.0 or above
     2. Forge versions under 40.2.0 will not work since some mods require Forge 40.2.0 or above
-5. Mods are installed
+5. You can play now!
+
+* I rwe
