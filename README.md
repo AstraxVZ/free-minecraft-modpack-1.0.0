@@ -14,6 +14,6 @@ To install this, follow these steps:
 2. Download this repository as a ZIP file and extract it
 3. Put all the JAR files from the extracted folder into mods folder in Minecraft directory
 4. Run Minecraft Forge 1.18.2
-  1. Forge should be 40.2.0 or above
-  2. Forge versions under 40.2.0 will not work since some mods require Forge 40.2.0 or above
+    1. Forge should be 40.2.0 or above
+    2. Forge versions under 40.2.0 will not work since some mods require Forge 40.2.0 or above
 5. Mods are installed
