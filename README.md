@@ -18,4 +18,4 @@ To install this, follow these steps:
     2. Forge versions under 40.2.0 will not work since some mods require Forge 40.2.0 or above
 5. You can play now!
 
-* I rwe
+* I recommend installing JEI (Just Enough Items) too, since it is perfect for viewing crafting recipes
